@@ -41,4 +41,11 @@ const El = styled.el`
 
 ## React Router 6 and Error Pages
 
-- Next step is to work on First Component, Logo & Images, React Router and Error Page
+- Next step is to work on First Component, Logo & Images, React Router and Error Page.
+- Install react router into the application using npm install history@5 react-router-dom@6
+- import { BrowserRouter, Routes, Route, Link } from 'react-router'.
+- Create the index.js inside pages and components and do the imports there, than export it to the App.js
+
+## Creating the Register Page with React {useState, useEffect} from 'react'
+
+- Get the logo, get the css wrapper, and eventually the context for the application.

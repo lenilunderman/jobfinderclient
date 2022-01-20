@@ -16,7 +16,7 @@ const Landing = () => {
             <div className="info">
                 <h1>Job <span>tracking</span> app </h1>
                 <p>
-                    Lorem, ipsums dolor sit amet consectetur adipisicing elit. Vero dolorum velit corporis praesentium eum impedit autem architecto voluptas, eaque doloremque veniam odio sequi. Neque dolorem, amet eos iure facere veniam?
+                    Lorem, ipsums dolor sit amet consectetur adipisicing elit. Vero dolorum velit corporis praesentium eum impedit autem architecto voluptas, eaque doloremque veniam odio sequi. Neque dolorem, amet eos iure facere veniam.
                 </p>
                 <button className="btn btn-hero">
                     Login/Register

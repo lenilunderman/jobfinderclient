@@ -1,8 +1,11 @@
+import Landing from './Pages/Landing'
+import styled from 'styled-components'
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>JobFinder</h1>
+    <div>
+      <Landing/>
     </div>
   );
 }

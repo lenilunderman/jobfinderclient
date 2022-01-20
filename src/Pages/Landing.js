@@ -1,13 +1,15 @@
 import React from 'react';
-import logo from '../assets/images/logo.svg'
 import main from '../assets/images/main.svg'
 import Wrapper from '../assets/wrappers/LandingPage';
+
+// Setup an index file inside the component and export all the components there, so will not need multiple imports. //
+import { Logo } from '../components/'
 
 const Landing = () => {
   return(
     <Wrapper>
         <nav>
-            <img src={logo} alt="jobfinder" className="logo" />
+            <Logo/>
         </nav>
         <div className="container page">
             {/* info */}
